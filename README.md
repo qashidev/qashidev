@@ -1,4 +1,3 @@
-<h1 align="center">Qashi</h1>
 <h3 align="center">Low-level systems &amp; aspiring vulnerability researcher located in the UK :)</h3>
 
 <p align="center">
@@ -39,26 +38,4 @@ Studying a T-Level in Digital Infrastructure, working through computer architect
   <img src="https://img.shields.io/badge/Ghidra-6B0D0D?style=flat-square" />
 </p>
 
-**Learning next:**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
-
 ---
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
-</p>
