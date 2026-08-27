@@ -11,7 +11,8 @@
 
 ### About
 
-Studying a T-Level in Digital Infrastructure, working through computer architecture, C, and binary exploitation on pwn.college. Long-term goal is vulnerability research; currently laying the low-level groundwork before expanding into other languages, i.e; C++, Rust & Python, etc.
+Studying a T-Level in Digital Infrastructure, working through computer architecture, C, and binary exploitation on pwn.college. 
+Long-term goal is vulnerability research; currently laying the low-level groundwork before expanding into other languages, i.e; C++, Rust & Python, etc.
 
 **Currently working through:**
 - Computer architecture fundamentals alongside Assembly
