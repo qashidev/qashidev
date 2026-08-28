@@ -26,10 +26,6 @@ Long-term goal is vulnerability research; currently laying the low-level groundw
 - TryHackMe — Pre Security
 - TryHackMe — Cyber Security 101
 
----
-
-### Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" />
